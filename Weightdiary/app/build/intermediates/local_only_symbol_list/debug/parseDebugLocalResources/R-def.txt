@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color white
+drawable bmi
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnLoad
+id btnSave
+id cardViewMain
+id imageView
+id score
+id text1
+id text2
+id text3
+id text4
+id text5
+id tvTitle
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Weightdiary
+style Theme.Weightdiary
+xml backup_rules
+xml data_extraction_rules
